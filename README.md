@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2025<br>📚 Atualmente estudando estatística e programação<br>🎯 Objetivos: Documentar minha jornada de estudos e compartilhar conhecimento<br>🎲 Fato curioso: Meu código sempre roda… na segunda tentativa 😆</p>
+<p align="left">✨ Iniciando a jornada...<br>📚 Atualmente estudando estatística<br></p>
 
 ###
 
